@@ -61,5 +61,5 @@ class GamePlayerManager
     }
 }
 $GPM = new GamePlayerManager();
-$GPM->setPlayer("MySQL");
+$GPM->setPlayer("Claasic");
 $GPM->play();
